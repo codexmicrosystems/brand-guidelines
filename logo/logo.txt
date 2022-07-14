@@ -4,4 +4,4 @@ Bold 900pt size font centered in the image.
 
 The Codex Microsystems rectangular logo was created in Adobe Photoshop
 2022 as a 2816px x 384px image with the word "CodeX" in Fira Code Bold
-650pt size font with 75 tracking width centered in the image.
+725pt size font with 75 tracking width centered in the image.
