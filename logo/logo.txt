@@ -1,6 +1,6 @@
-The Codex Microsystems square logo was created in Adobe Photoshop 
-2022 as a 1024px x 1024px image with the letter "X" in Fira Code 
-Bold 900pt size font centered in the image.
+The Codex Microsystems square logo was created in Adobe Photoshop
+2022 as a 1024px x 1024px image with codex-logo-symbol.png centered
+in the image.
 
 The Codex Microsystems rectangular logo was created in Adobe Photoshop
 2022 as a 2816px x 384px image with the word "CodeX" in Fira Code Bold
